@@ -1,4 +1,38 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/** Chelcey's Styles**/
+
+.chelcey-advice html, body{
+	font-family: 'Impact', sans-serif;
+	font-size: 18px;
+	color: #000000;
+	background-color: #e6e6ef;
+	text-align: center;
+}
+
+.chelcey-advice h4 {
+	color: #454545;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.chelcey-advice h1 {
+	font-family: 'Suez One', serif;
+	font-size: 24px;
+	text-transform: capitalize;
+	color: #462255;
+}
+
+.chelcey-advice {
+	max-width: auto;
+	margin: 0 auto;
+	padding-bottom: 10px;
+}
+
+.chelcey-advice footer {
+	margin-top: 20px;
+	border-top: 1px solid #600080;
+}
+
 /** Susanna Wise's Styles **/
 .susannawise-advice {
 	background-color: #33cccc;
